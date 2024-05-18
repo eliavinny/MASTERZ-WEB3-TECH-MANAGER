@@ -1,4 +1,4 @@
-# SMART-CONTRACTS
+# MASTERZ WEB3 TECH MANAGER
 
 
 With the **ERC20.sol** contract, I created a fungible ERC20 token, called TKTK which was deployed on AMOY Testnet.

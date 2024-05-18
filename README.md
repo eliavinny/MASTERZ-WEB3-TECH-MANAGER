@@ -1,4 +1,8 @@
-# MASTERZ WEB3 TECH MANAGER
+# MASTERZ WEB3 TECH MANAGER HOMEWORKS
+
+
+In the **Homework.js** file, the code loops in the days of the week and based on the rules, one apple is eaten every day, shows the number of apples still available and doesn't eat on some specific days
+
 
 
 With the **ERC20.sol** contract, I created a fungible ERC20 token, called TKTK which was deployed on AMOY Testnet.
@@ -29,3 +33,4 @@ https://www.oklink.com/amoy/address/0xdf1f781b47ce597a3b380c9cef4e2f1215fe2072
 
 You can view the tokens on **Opensea Testnet** at the following link:
 https://testnets.opensea.io/collection/my-game-assets-8
+

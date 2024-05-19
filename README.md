@@ -1,7 +1,7 @@
 # MASTERZ WEB3 TECH MANAGER HOMEWORKS
 
 
-In the **Homework.js** file, the code loops in the days of the week and based on the rules, one apple is eaten every day, shows the number of apples still available and doesn't eat on some specific days
+In the **Homework.js** file, the code loops through an array composed by the days of the week and, based on the rules, one apple is eaten every day, shows the number of apples still available and doesn't eat apples on some specific days
 
 
 

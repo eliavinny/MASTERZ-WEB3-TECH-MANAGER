@@ -8,12 +8,12 @@ In the **Homework.js** file, the code loops through an array composed by the day
 With the **ERC20.sol** contract, I created a fungible ERC20 token, called TKTK which was deployed on AMOY Testnet.
 This contract implements the basic functions for an ERC20 token, with a total supply of 100 TKTK
 
-You can view the smart contrat at the following link on **AMOY blockchain explorer**: 
+You can view the smart contract at the following link on **AMOY blockchain explorer**: 
 https://amoy.polygonscan.com/address/0x60c2cd55a2b346f04f5448fedd2c6e1acbaca852
 
 
 
-With the **ERC721.sol** contract, I created two ERC721 tokens, one called "Ny First NFT" the other one called "Loading complete", deployed on Matic's Amoy Testnet.
+With the **ERC721.sol** contract, I created two ERC721 tokens, one called "My First NFT" the other one called "Loading complete", deployed on Matic's Amoy Testnet.
 The main difference between the two tokens is that for "Loading complete", the json file linked to that NFT was integrated with all the necessary information and data structure in order for it to be correctly displayed on Opensea.
 
 You can view the smart contract on **AMOY blockchain explorer** at the following link: 
